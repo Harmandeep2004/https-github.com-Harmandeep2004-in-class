@@ -1,0 +1,37 @@
+/* Style the navigation bar */
+.navbar {
+    background-color: #3c1d1d;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  .navbar a {
+    display: inline-block;
+    color: rgb(2, 7, 18);
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: #300929;
+    color: black;
+  }
+  
+  /* Style the container */
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .container h1 {
+    color: #824343;
+  }
+  
+  .container p {
+    color: #0a4216;
+  }
+  
+  .container img {
+    max-width: 100%;
+  }
+  
